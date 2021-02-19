@@ -302,3 +302,16 @@ footer{
         gap:2rem
     }
 }
+
+
+/*
+
+<script src="https://kit.fontawesome.com/44ee543800.js" crossorigin="anonymous"></script>
+
+<i class="far fa-arrow-alt-circle-up" id="entradas"></i>
+
+<i class="far fa-arrow-alt-circle-down" id="saidas"></i>
+
+<i class="fas fa-dollar-sign" id="total"></i>
+
+*/
