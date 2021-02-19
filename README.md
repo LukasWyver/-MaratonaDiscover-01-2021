@@ -7,6 +7,13 @@ de custos automaticamente e deixa salvo na memoria do navegador. Podendo ser ace
 
 Feito durante a primeira MaratonaDiscover realizada com as instruções do professor Mayk Brito da Rocketseat.
 
+## Referencias 
+perfil do professor: https://github.com/MaykBrito
+
+MaratonaDiscover: https://maratonadiscover.rocketseat.com.br/maratona/aula-04
+
+Plataforma Rocketseat: https://app.rocketseat.com.br/discover
+
 ## Resultado:
 
 
