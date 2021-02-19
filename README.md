@@ -17,7 +17,7 @@ Plataforma Rocketseat: https://app.rocketseat.com.br/discover
 ## ✅ Resultado:
 
 
-##  🧑🏻‍💻 Minha opinião
+## ✅ Minha opinião
 
 Com certeza me foi muito gratificante realizar este projeto. Melhorou meus conhecimentos
 em todas as aréas deste projeto em "HTML , CSS e JAVASCRIPT". E a ditatica deste professor é sensacional !! 
