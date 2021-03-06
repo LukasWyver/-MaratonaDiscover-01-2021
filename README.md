@@ -16,6 +16,7 @@ Plataforma Rocketseat: https://app.rocketseat.com.br/discover
 
 ## ✅ Resultado:
 
+acesse através deste link: https://bityli.com/lEOnH
 
 ## ✅ Minha opinião
 
